@@ -1,0 +1,26 @@
+# ---- 构建产物 ----
+build/
+out/
+*.class
+*.jar
+
+# ---- 临时文件 ----
+*.tmp
+*.bak
+*.log
+*.orig
+*~
+
+# ---- 测试存档 / 大体积快照 ----
+saves/
+*-MTR3/
+.mtr4-backup/
+dev/snap-*.txt
+
+# ---- IDE / 系统 ----
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,15 @@
+校验存档: C:\Users\AD\Desktop\PCL\.minecraft\versions\1.20.1-Fabric 0.19.3\saves\绫洛市
+--------------------------------------------------------------
+stations       文件 65   键集合/类型与 MTR3 原生一致 65   ✓ missing=[] extra=[] typeDiff=[]
+platforms      文件 189  键集合/类型与 MTR3 原生一致 189  ✓ missing=[] extra=[] typeDiff=[]
+routes         文件 21   键集合/类型与 MTR3 原生一致 21   ✓ missing=[] extra=[] typeDiff=[]
+depots         文件 21   键集合/类型与 MTR3 原生一致 21   ✓ missing=[] extra=[] typeDiff=[]
+sidings        文件 29   键集合/类型与 MTR3 原生一致 29   ✓ missing=[] extra=[] typeDiff=[]
+rails          文件 1573 键集合/类型与 MTR3 原生一致 1573 ✓ missing=[] extra=[] typeDiff=[]
+rail_connections 无对象（0 个文件）
+lifts          文件 102  键集合/类型与 MTR3 原生一致 102  ✓ missing=[] extra=[] typeDiff=[]
+signal-blocks  文件 34   键集合/类型与 MTR3 原生一致 34   ✓ missing=[] extra=[] typeDiff=[]
+--------------------------------------------------------------
+mtr_train_data data/mtr_train_data.dat（根键 DataVersion:3,data:10，raw_message_pack=false）✓ MTR3 会读取 mtr/ 文件树
+mtr_train_data DIM-1/data/mtr_train_data.dat（根键 DataVersion:3,data:10，raw_message_pack=false）✓ MTR3 会读取 mtr/ 文件树
+mtr_train_data DIM1/data/mtr_train_data.dat（根键 DataVersion:3,data:10，raw_message_pack=false）✓ MTR3 会读取 mtr/ 文件树

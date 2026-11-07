@@ -1,0 +1,15 @@
+校验存档: C:\Users\AD\Desktop\PCL\.minecraft\versions\1.20.1-Fabric 0.19.3\saves\测试摄影专用
+--------------------------------------------------------------
+stations       文件 9    键集合/类型与 MTR3 原生一致 9    ✓ missing=[] extra=[] typeDiff=[]
+platforms      文件 22   键集合/类型与 MTR3 原生一致 22   ✓ missing=[] extra=[] typeDiff=[]
+routes         文件 9    键集合/类型与 MTR3 原生一致 9    ✓ missing=[] extra=[] typeDiff=[]
+depots         文件 11   键集合/类型与 MTR3 原生一致 11   ✓ missing=[] extra=[] typeDiff=[]
+sidings        文件 12   键集合/类型与 MTR3 原生一致 12   ✓ missing=[] extra=[] typeDiff=[]
+rails          文件 143  键集合/类型与 MTR3 原生一致 143  ✓ missing=[] extra=[] typeDiff=[]
+rail_connections 无对象（0 个文件）
+lifts          无对象（0 个文件）
+signal-blocks  无对象（0 个文件）
+--------------------------------------------------------------
+mtr_train_data data/mtr_train_data.dat（根键 DataVersion:3,data:10，raw_message_pack=false）✓ MTR3 会读取 mtr/ 文件树
+mtr_train_data DIM-1/data/mtr_train_data.dat（根键 DataVersion:3,data:10，raw_message_pack=false）✓ MTR3 会读取 mtr/ 文件树
+mtr_train_data DIM1/data/mtr_train_data.dat（根键 DataVersion:3,data:10，raw_message_pack=false）✓ MTR3 会读取 mtr/ 文件树

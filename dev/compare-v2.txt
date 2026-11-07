@@ -1,0 +1,38 @@
+
+## stations  [MATCH]  files=4  requiredKeys=10
+  missing=[]
+  extra  =[]
+  typeDiff=[]
+
+## platforms  [MATCH]  files=4  requiredKeys=7
+  missing=[]
+  extra  =[]
+  typeDiff=[]
+  optionalKeysOnlySomeRefsWrite=["adc_time","stop_without_opening_doors","psd_display_mode"]
+
+## routes  [MATCH]  files=1  requiredKeys=17
+  missing=[]
+  extra  =[]
+  typeDiff=[]
+
+## depots  [MATCH]  files=1  requiredKeys=15
+  missing=[]
+  extra  =[]
+  typeDiff=[]
+
+## sidings  [MATCH]  files=1  requiredKeys=23
+  missing=[]
+  extra  =[]
+  typeDiff=[]
+
+## rails  [MATCH]  files=14  requiredKeys=2
+  missing=[]
+  extra  =[]
+  typeDiff=[]
+  nested rail_connections[]: ours 27 keys / 28 conns | MTR3-core keys 20: missing=[] | ref-union 33 keys, addon-only in refs=["path_mode","pos_start","facing_start","pos_end","facing_end","bezier_curve"]
+
+## lifts  [N/A]  源存档没有这类对象，输出为空（参照存档有 22 个键，但没有实例可比较）
+
+## signal-blocks  [N/A]  源存档没有这类对象，输出为空（参照存档有 5 个键，但没有实例可比较）
+
+SUMMARY kinds differing: 0 / 6 compared
